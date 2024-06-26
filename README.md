@@ -1,4 +1,4 @@
 # DemoGit03
 
 Git first then local
-Author Mitindra Dutta
+<b>Author Mitindra Dutta</b>
